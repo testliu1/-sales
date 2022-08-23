@@ -1,0 +1,8 @@
+2022-07-30 11:06:18,242 - [custom_log.py --> line:61] - INFO : case_name:get_cmdopts
+2022-07-30 11:06:18,242 - [custom_log.py --> line:62] - INFO : 
+method:post
+url:192.168.0.102/WoniuSales_20180508_V1.4_bin/user/login
+data:{'username': 'lm', 'password': 'LiuM123', 'verifycode': '0000'}
+headers:None
+host:None
+2022-07-30 11:06:18,242 - [custom_log.py --> line:66] - ERROR : Invalid URL '192.168.0.102/WoniuSales_20180508_V1.4_bin/user/login': No schema supplied. Perhaps you meant http://192.168.0.102/WoniuSales_20180508_V1.4_bin/user/login?

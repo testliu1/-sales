@@ -1,0 +1,48 @@
+2022-07-31 10:12:49,591 - [custom_log.py --> line:61] - INFO : case_name:get_cmdopts
+2022-07-31 10:12:49,591 - [custom_log.py --> line:62] - INFO : 
+method:post
+url:/WoniuSales_20180508_V1.4_bin/user/login
+data:{'username': 'lm', 'password': 'LiuM123', 'verifycode': '0000'}
+headers:None
+host:None
+2022-07-31 10:12:49,620 - [custom_log.py --> line:64] - INFO : response:login-pass
+2022-07-31 10:12:49,620 - [custom_log.py --> line:61] - INFO : case_name:get_cmdopts
+2022-07-31 10:12:49,620 - [custom_log.py --> line:62] - INFO : 
+method:post
+url:/WoniuSales_20180508_V1.4_bin/user/login
+data:{'username': 'liuchan', 'password': 'LiuC456', 'verifycode': '0000'}
+headers:None
+host:None
+2022-07-31 10:12:49,637 - [custom_log.py --> line:64] - INFO : response:login-pass
+2022-07-31 10:12:49,637 - [custom_log.py --> line:61] - INFO : case_name:get_cmdopts
+2022-07-31 10:12:49,637 - [custom_log.py --> line:62] - INFO : 
+method:post
+url:/WoniuSales_20180508_V1.4_bin/user/login
+data:{'username': 'dy', 'password': 'DY123', 'verifycode': '0000'}
+headers:None
+host:None
+2022-07-31 10:12:49,637 - [custom_log.py --> line:64] - INFO : response:login-pass
+2022-07-31 10:12:49,637 - [custom_log.py --> line:61] - INFO : case_name:get_cmdopts
+2022-07-31 10:12:49,637 - [custom_log.py --> line:62] - INFO : 
+method:post
+url:/WoniuSales_20180508_V1.4_bin/user/login
+data:{'username': 'wangwu', 'password': 'ww123', 'verifycode': '0000'}
+headers:None
+host:None
+2022-07-31 10:12:49,653 - [custom_log.py --> line:64] - INFO : response:login-pass
+2022-07-31 10:12:49,653 - [custom_log.py --> line:61] - INFO : case_name:get_cmdopts
+2022-07-31 10:12:49,653 - [custom_log.py --> line:62] - INFO : 
+method:post
+url:/WoniuSales_20180508_V1.4_bin/user/login
+data:{'username': 'admin', 'password': 'Milor123', 'verifycode': '0000'}
+headers:None
+host:None
+2022-07-31 10:12:49,653 - [custom_log.py --> line:64] - INFO : response:login-pass
+2022-07-31 10:12:49,653 - [custom_log.py --> line:61] - INFO : case_name:add_member
+2022-07-31 10:12:49,653 - [custom_log.py --> line:62] - INFO : 
+method:post
+url:/WoniuSales_20180508_V1.4_bin/customer/add
+data:customername=我我我&customerphone=13652469851&childsex=男&childdate=1994-11-02&creditkids=0&creditcloth=0
+headers:{'Cookie': 'JSESSIONID=0219C076744E66499C6328C0EB5601AF;', 'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8'}
+host:None
+2022-07-31 10:12:49,653 - [custom_log.py --> line:66] - ERROR : 'latin-1' codec can't encode characters in position 13-15: Body ('我我我') is not valid Latin-1. Use body.encode('utf-8') if you want to send it encoded in UTF-8.

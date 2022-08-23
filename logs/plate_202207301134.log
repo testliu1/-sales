@@ -1,0 +1,47 @@
+2022-07-30 11:34:23,154 - [custom_log.py --> line:61] - INFO : case_name:get_cmdopts
+2022-07-30 11:34:23,154 - [custom_log.py --> line:62] - INFO : 
+method:post
+url:http://127.0.0.1:8080/WoniuSales_20180508_V1.4_bin/user/login
+data:{'username': 'lm', 'password': 'LiuM123', 'verifycode': '0000'}
+headers:None
+host:None
+2022-07-30 11:34:40,565 - [custom_log.py --> line:61] - INFO : case_name:get_cmdopts
+2022-07-30 11:34:40,565 - [custom_log.py --> line:62] - INFO : 
+method:post
+url:http://127.0.0.1:8080/WoniuSales_20180508_V1.4_bin/user/login
+data:{'username': 'lm', 'password': 'LiuM123', 'verifycode': '0000'}
+headers:None
+host:None
+2022-07-30 11:35:14,323 - [custom_log.py --> line:64] - INFO : response:login-pass
+2022-07-30 11:35:14,327 - [custom_log.py --> line:61] - INFO : case_name:get_cmdopts
+2022-07-30 11:35:14,327 - [custom_log.py --> line:62] - INFO : 
+method:post
+url:http://127.0.0.1:8080/WoniuSales_20180508_V1.4_bin/user/login
+data:{'username': 'liuchan', 'password': 'LiuC456', 'verifycode': '0000'}
+headers:None
+host:None
+2022-07-30 11:35:14,333 - [custom_log.py --> line:64] - INFO : response:login-pass
+2022-07-30 11:35:14,333 - [custom_log.py --> line:61] - INFO : case_name:get_cmdopts
+2022-07-30 11:35:14,333 - [custom_log.py --> line:62] - INFO : 
+method:post
+url:http://127.0.0.1:8080/WoniuSales_20180508_V1.4_bin/user/login
+data:{'username': 'dy', 'password': 'DY123', 'verifycode': '0000'}
+headers:None
+host:None
+2022-07-30 11:35:14,333 - [custom_log.py --> line:64] - INFO : response:login-pass
+2022-07-30 11:35:14,349 - [custom_log.py --> line:61] - INFO : case_name:get_cmdopts
+2022-07-30 11:35:14,349 - [custom_log.py --> line:62] - INFO : 
+method:post
+url:http://127.0.0.1:8080/WoniuSales_20180508_V1.4_bin/user/login
+data:{'username': 'wangwu', 'password': 'ww123', 'verifycode': '0000'}
+headers:None
+host:None
+2022-07-30 11:35:14,350 - [custom_log.py --> line:64] - INFO : response:login-pass
+2022-07-30 11:35:14,350 - [custom_log.py --> line:61] - INFO : case_name:get_cmdopts
+2022-07-30 11:35:14,350 - [custom_log.py --> line:62] - INFO : 
+method:post
+url:http://127.0.0.1:8080/WoniuSales_20180508_V1.4_bin/user/login
+data:{'username': 'admin', 'password': 'Milor123', 'verifycode': '0000'}
+headers:None
+host:None
+2022-07-30 11:35:14,350 - [custom_log.py --> line:64] - INFO : response:login-pass

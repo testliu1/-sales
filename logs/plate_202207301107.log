@@ -1,0 +1,80 @@
+2022-07-30 11:07:16,463 - [custom_log.py --> line:61] - INFO : case_name:get_cmdopts
+2022-07-30 11:07:16,463 - [custom_log.py --> line:62] - INFO : 
+method:post
+url:192.168.0.102/WoniuSales_20180508_V1.4_bin/user/login
+data:{'username': 'lm', 'password': 'LiuM123', 'verifycode': '0000'}
+headers:None
+host:None
+2022-07-30 11:07:16,463 - [custom_log.py --> line:66] - ERROR : Invalid URL '192.168.0.102/WoniuSales_20180508_V1.4_bin/user/login': No schema supplied. Perhaps you meant http://192.168.0.102/WoniuSales_20180508_V1.4_bin/user/login?
+2022-07-30 11:07:16,463 - [custom_log.py --> line:61] - INFO : case_name:get_cmdopts
+2022-07-30 11:07:16,463 - [custom_log.py --> line:62] - INFO : 
+method:post
+url:192.168.0.102/WoniuSales_20180508_V1.4_bin/user/login
+data:{'username': 'liuchan', 'password': 'LiuC456', 'verifycode': '0000'}
+headers:None
+host:None
+2022-07-30 11:07:16,463 - [custom_log.py --> line:66] - ERROR : Invalid URL '192.168.0.102/WoniuSales_20180508_V1.4_bin/user/login': No schema supplied. Perhaps you meant http://192.168.0.102/WoniuSales_20180508_V1.4_bin/user/login?
+2022-07-30 11:07:16,479 - [custom_log.py --> line:61] - INFO : case_name:get_cmdopts
+2022-07-30 11:07:16,479 - [custom_log.py --> line:62] - INFO : 
+method:post
+url:192.168.0.102/WoniuSales_20180508_V1.4_bin/user/login
+data:{'username': 'dy', 'password': 'DY123', 'verifycode': '0000'}
+headers:None
+host:None
+2022-07-30 11:07:16,479 - [custom_log.py --> line:66] - ERROR : Invalid URL '192.168.0.102/WoniuSales_20180508_V1.4_bin/user/login': No schema supplied. Perhaps you meant http://192.168.0.102/WoniuSales_20180508_V1.4_bin/user/login?
+2022-07-30 11:07:16,479 - [custom_log.py --> line:61] - INFO : case_name:get_cmdopts
+2022-07-30 11:07:16,479 - [custom_log.py --> line:62] - INFO : 
+method:post
+url:192.168.0.102/WoniuSales_20180508_V1.4_bin/user/login
+data:{'username': 'wangwu', 'password': 'ww123', 'verifycode': '0000'}
+headers:None
+host:None
+2022-07-30 11:07:16,479 - [custom_log.py --> line:66] - ERROR : Invalid URL '192.168.0.102/WoniuSales_20180508_V1.4_bin/user/login': No schema supplied. Perhaps you meant http://192.168.0.102/WoniuSales_20180508_V1.4_bin/user/login?
+2022-07-30 11:07:16,479 - [custom_log.py --> line:61] - INFO : case_name:get_cmdopts
+2022-07-30 11:07:16,479 - [custom_log.py --> line:62] - INFO : 
+method:post
+url:192.168.0.102/WoniuSales_20180508_V1.4_bin/user/login
+data:{'username': 'admin', 'password': 'Milor123', 'verifycode': '0000'}
+headers:None
+host:None
+2022-07-30 11:07:16,479 - [custom_log.py --> line:66] - ERROR : Invalid URL '192.168.0.102/WoniuSales_20180508_V1.4_bin/user/login': No schema supplied. Perhaps you meant http://192.168.0.102/WoniuSales_20180508_V1.4_bin/user/login?
+2022-07-30 11:07:50,830 - [custom_log.py --> line:61] - INFO : case_name:get_cmdopts
+2022-07-30 11:07:50,830 - [custom_log.py --> line:62] - INFO : 
+method:post
+url:http://192.168.0.102/WoniuSales_20180508_V1.4_bin/user/login
+data:{'username': 'lm', 'password': 'LiuM123', 'verifycode': '0000'}
+headers:None
+host:None
+2022-07-30 11:07:52,867 - [custom_log.py --> line:66] - ERROR : HTTPConnectionPool(host='192.168.0.102', port=80): Max retries exceeded with url: /WoniuSales_20180508_V1.4_bin/user/login (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002741B221420>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+2022-07-30 11:07:52,867 - [custom_log.py --> line:61] - INFO : case_name:get_cmdopts
+2022-07-30 11:07:52,867 - [custom_log.py --> line:62] - INFO : 
+method:post
+url:http://192.168.0.102/WoniuSales_20180508_V1.4_bin/user/login
+data:{'username': 'liuchan', 'password': 'LiuC456', 'verifycode': '0000'}
+headers:None
+host:None
+2022-07-30 11:07:54,917 - [custom_log.py --> line:66] - ERROR : HTTPConnectionPool(host='192.168.0.102', port=80): Max retries exceeded with url: /WoniuSales_20180508_V1.4_bin/user/login (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002741B221660>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+2022-07-30 11:07:54,917 - [custom_log.py --> line:61] - INFO : case_name:get_cmdopts
+2022-07-30 11:07:54,917 - [custom_log.py --> line:62] - INFO : 
+method:post
+url:http://192.168.0.102/WoniuSales_20180508_V1.4_bin/user/login
+data:{'username': 'dy', 'password': 'DY123', 'verifycode': '0000'}
+headers:None
+host:None
+2022-07-30 11:07:56,945 - [custom_log.py --> line:66] - ERROR : HTTPConnectionPool(host='192.168.0.102', port=80): Max retries exceeded with url: /WoniuSales_20180508_V1.4_bin/user/login (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002741B1FA590>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+2022-07-30 11:07:56,945 - [custom_log.py --> line:61] - INFO : case_name:get_cmdopts
+2022-07-30 11:07:56,945 - [custom_log.py --> line:62] - INFO : 
+method:post
+url:http://192.168.0.102/WoniuSales_20180508_V1.4_bin/user/login
+data:{'username': 'wangwu', 'password': 'ww123', 'verifycode': '0000'}
+headers:None
+host:None
+2022-07-30 11:07:58,978 - [custom_log.py --> line:66] - ERROR : HTTPConnectionPool(host='192.168.0.102', port=80): Max retries exceeded with url: /WoniuSales_20180508_V1.4_bin/user/login (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002741B1FBAC0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+2022-07-30 11:07:58,980 - [custom_log.py --> line:61] - INFO : case_name:get_cmdopts
+2022-07-30 11:07:58,980 - [custom_log.py --> line:62] - INFO : 
+method:post
+url:http://192.168.0.102/WoniuSales_20180508_V1.4_bin/user/login
+data:{'username': 'admin', 'password': 'Milor123', 'verifycode': '0000'}
+headers:None
+host:None
+2022-07-30 11:08:01,020 - [custom_log.py --> line:66] - ERROR : HTTPConnectionPool(host='192.168.0.102', port=80): Max retries exceeded with url: /WoniuSales_20180508_V1.4_bin/user/login (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002741B1FB190>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))

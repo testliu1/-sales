@@ -1,0 +1,48 @@
+2022-07-31 10:26:52,562 - [custom_log.py --> line:61] - INFO : case_name:get_cmdopts
+2022-07-31 10:26:52,562 - [custom_log.py --> line:62] - INFO : 
+method:post
+url:/WoniuSales_20180508_V1.4_bin/user/login
+data:{'username': 'lm', 'password': 'LiuM123', 'verifycode': '0000'}
+headers:None
+host:None
+2022-07-31 10:26:52,571 - [custom_log.py --> line:64] - INFO : response:login-pass
+2022-07-31 10:26:52,572 - [custom_log.py --> line:61] - INFO : case_name:get_cmdopts
+2022-07-31 10:26:52,572 - [custom_log.py --> line:62] - INFO : 
+method:post
+url:/WoniuSales_20180508_V1.4_bin/user/login
+data:{'username': 'liuchan', 'password': 'LiuC456', 'verifycode': '0000'}
+headers:None
+host:None
+2022-07-31 10:26:52,581 - [custom_log.py --> line:64] - INFO : response:login-pass
+2022-07-31 10:26:52,582 - [custom_log.py --> line:61] - INFO : case_name:get_cmdopts
+2022-07-31 10:26:52,582 - [custom_log.py --> line:62] - INFO : 
+method:post
+url:/WoniuSales_20180508_V1.4_bin/user/login
+data:{'username': 'dy', 'password': 'DY123', 'verifycode': '0000'}
+headers:None
+host:None
+2022-07-31 10:26:52,588 - [custom_log.py --> line:64] - INFO : response:login-pass
+2022-07-31 10:26:52,589 - [custom_log.py --> line:61] - INFO : case_name:get_cmdopts
+2022-07-31 10:26:52,589 - [custom_log.py --> line:62] - INFO : 
+method:post
+url:/WoniuSales_20180508_V1.4_bin/user/login
+data:{'username': 'wangwu', 'password': 'ww123', 'verifycode': '0000'}
+headers:None
+host:None
+2022-07-31 10:26:52,594 - [custom_log.py --> line:64] - INFO : response:login-pass
+2022-07-31 10:26:52,595 - [custom_log.py --> line:61] - INFO : case_name:get_cmdopts
+2022-07-31 10:26:52,595 - [custom_log.py --> line:62] - INFO : 
+method:post
+url:/WoniuSales_20180508_V1.4_bin/user/login
+data:{'username': 'admin', 'password': 'Milor123', 'verifycode': '0000'}
+headers:None
+host:None
+2022-07-31 10:26:52,600 - [custom_log.py --> line:64] - INFO : response:login-pass
+2022-07-31 10:26:52,602 - [custom_log.py --> line:61] - INFO : case_name:add_member
+2022-07-31 10:26:52,602 - [custom_log.py --> line:62] - INFO : 
+method:post
+url:/WoniuSales_20180508_V1.4_bin/customer/add
+data:b'customername=\xe6\x88\x91\xe6\x88\x91\xe6\x88\x91&customerphone=13652469851&childsex=\xe7\x94\xb7&childdate=1994-11-02&creditkids=0&creditcloth=0'
+headers:{'Cookie': 'JSESSIONID=6DA3AF539A85ACB8EA88DE3C6FBCD315;', 'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8'}
+host:None
+2022-07-31 10:26:52,609 - [custom_log.py --> line:64] - INFO : response:add-successful

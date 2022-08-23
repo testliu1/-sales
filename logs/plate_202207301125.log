@@ -1,0 +1,40 @@
+2022-07-30 11:25:54,994 - [custom_log.py --> line:61] - INFO : case_name:get_cmdopts
+2022-07-30 11:25:54,994 - [custom_log.py --> line:62] - INFO : 
+method:post
+url:http://127.0.0.1:8080/WoniuSales_20180508_V1.4_bin/user/login
+data:{'username': 'lm', 'password': 'LiuM123', 'verifycode': '0000'}
+headers:None
+host:None
+2022-07-30 11:25:55,068 - [custom_log.py --> line:64] - INFO : response:login-pass
+2022-07-30 11:25:55,068 - [custom_log.py --> line:61] - INFO : case_name:get_cmdopts
+2022-07-30 11:25:55,068 - [custom_log.py --> line:62] - INFO : 
+method:post
+url:http://127.0.0.1:8080/WoniuSales_20180508_V1.4_bin/user/login
+data:{'username': 'liuchan', 'password': 'LiuC456', 'verifycode': '0000'}
+headers:None
+host:None
+2022-07-30 11:25:55,087 - [custom_log.py --> line:64] - INFO : response:login-pass
+2022-07-30 11:25:55,087 - [custom_log.py --> line:61] - INFO : case_name:get_cmdopts
+2022-07-30 11:25:55,087 - [custom_log.py --> line:62] - INFO : 
+method:post
+url:http://127.0.0.1:8080/WoniuSales_20180508_V1.4_bin/user/login
+data:{'username': 'dy', 'password': 'DY123', 'verifycode': '0000'}
+headers:None
+host:None
+2022-07-30 11:25:55,106 - [custom_log.py --> line:64] - INFO : response:login-pass
+2022-07-30 11:25:55,106 - [custom_log.py --> line:61] - INFO : case_name:get_cmdopts
+2022-07-30 11:25:55,106 - [custom_log.py --> line:62] - INFO : 
+method:post
+url:http://127.0.0.1:8080/WoniuSales_20180508_V1.4_bin/user/login
+data:{'username': 'wangwu', 'password': 'ww123', 'verifycode': '0000'}
+headers:None
+host:None
+2022-07-30 11:25:55,124 - [custom_log.py --> line:64] - INFO : response:login-pass
+2022-07-30 11:25:55,124 - [custom_log.py --> line:61] - INFO : case_name:get_cmdopts
+2022-07-30 11:25:55,124 - [custom_log.py --> line:62] - INFO : 
+method:post
+url:http://127.0.0.1:8080/WoniuSales_20180508_V1.4_bin/user/login
+data:{'username': 'admin', 'password': 'Milor123', 'verifycode': '0000'}
+headers:None
+host:None
+2022-07-30 11:25:55,143 - [custom_log.py --> line:64] - INFO : response:login-pass

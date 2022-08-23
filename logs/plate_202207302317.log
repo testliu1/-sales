@@ -1,0 +1,40 @@
+2022-07-30 23:17:55,120 - [custom_log.py --> line:61] - INFO : case_name:get_cmdopts
+2022-07-30 23:17:55,120 - [custom_log.py --> line:62] - INFO : 
+method:post
+url:/WoniuSales_20180508_V1.4_bin/user/login
+data:{'username': 'lm', 'password': 'LiuM123', 'verifycode': '0000'}
+headers:None
+host:None
+2022-07-30 23:17:55,136 - [custom_log.py --> line:64] - INFO : response:login-pass
+2022-07-30 23:17:55,136 - [custom_log.py --> line:61] - INFO : case_name:get_cmdopts
+2022-07-30 23:17:55,136 - [custom_log.py --> line:62] - INFO : 
+method:post
+url:/WoniuSales_20180508_V1.4_bin/user/login
+data:{'username': 'liuchan', 'password': 'LiuC456', 'verifycode': '0000'}
+headers:None
+host:None
+2022-07-30 23:17:55,136 - [custom_log.py --> line:64] - INFO : response:login-pass
+2022-07-30 23:17:55,136 - [custom_log.py --> line:61] - INFO : case_name:get_cmdopts
+2022-07-30 23:17:55,136 - [custom_log.py --> line:62] - INFO : 
+method:post
+url:/WoniuSales_20180508_V1.4_bin/user/login
+data:{'username': 'dy', 'password': 'DY123', 'verifycode': '0000'}
+headers:None
+host:None
+2022-07-30 23:17:55,154 - [custom_log.py --> line:64] - INFO : response:login-pass
+2022-07-30 23:17:55,154 - [custom_log.py --> line:61] - INFO : case_name:get_cmdopts
+2022-07-30 23:17:55,154 - [custom_log.py --> line:62] - INFO : 
+method:post
+url:/WoniuSales_20180508_V1.4_bin/user/login
+data:{'username': 'wangwu', 'password': 'ww123', 'verifycode': '0000'}
+headers:None
+host:None
+2022-07-30 23:17:55,154 - [custom_log.py --> line:64] - INFO : response:login-pass
+2022-07-30 23:17:55,154 - [custom_log.py --> line:61] - INFO : case_name:get_cmdopts
+2022-07-30 23:17:55,154 - [custom_log.py --> line:62] - INFO : 
+method:post
+url:/WoniuSales_20180508_V1.4_bin/user/login
+data:{'username': 'admin', 'password': 'Milor123', 'verifycode': '0000'}
+headers:None
+host:None
+2022-07-30 23:17:55,170 - [custom_log.py --> line:64] - INFO : response:login-pass
